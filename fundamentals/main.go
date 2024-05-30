@@ -8,8 +8,8 @@ func main() {
 	/*
 		variables
 
-		- Use variables if declared or else its considerred code pollution
-		- use short form declaration unless there is a zero value declaratiob
+		- Use variables if declared or else its considered code pollution
+		- use short form declaration unless there is a zero value declaration
 	*/
 
 	// Variables
@@ -63,7 +63,7 @@ func sayHello() {
 
 func add(x int, y int) int {
 	/*
-		erturn the sum of both ints passed as args
+		return the sum of both ints passed as args
 
 		return type: int
 	*/
